@@ -11,4 +11,6 @@ Pulp Fiction
 Jagd auf Roter Oktober
 Winnetou
 Rounders
+Pippi Langstrumpf (add and commit on GitHub)
+Wickie (add and commit on local machine in VS Code)
 
